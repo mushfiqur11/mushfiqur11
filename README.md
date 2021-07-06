@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<object data="https://mushfiqur11.github.io/Md_Mushfiqur_Rahman_CV.pdf" type="application/pdf" width="500px" height="1000px">
-    <embed src="https://mushfiqur11.github.io/Md_Mushfiqur_Rahman_CV.pdf">
-        <p>
-        This browser does not support PDFs. Please download the PDF to view it: 
-        <a href="https://mushfiqur11.github.io/Md_Mushfiqur_Rahman_CV.pdf"> Download PDF </a>.
-        </p>
-    </embed>
+<object data="https://mushfiqur11.github.io/Md_Mushfiqur_Rahman_CV.pdf" type="application/pdf" width="100%"> 
 </object>
